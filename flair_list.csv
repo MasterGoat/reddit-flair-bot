@@ -1,116 +1,120 @@
-0-0 season1 1 
-0-1 season1 2 
-0-2 season1 3 
-0-3 season1 4 
-0-4 season1 5 
-0-5 season1 6 
-0-6 season1 7 
-0-7 season1 8 
-0-8 season1 9 
-0-9 season1 10 
-0-10 season1 11 
-0-11 season1 12 
-0-12 season1 13 
-0-13 season1 14 
-0-14 season1 15 
-0-15 season1 16 
-0-16 season1 17 
-0-17 season1 18 
-0-18 season1 19 
-0-19 season1 20 
-0-20 season1 21 
-0-21 season1 22 
-1-0 season2 23 
-1-1 season2 24 
-1-2 season2 25 
-1-3 season2 26 
-1-4 season2 27 
-1-5 season2 28 
-1-6 season2 29 
-1-7 season2 30 
-1-8 season2 31 
-1-9 season2 32 
-1-10 season2 33 
-1-11 season2 34 
-1-12 season2 35 
-1-13 season2 36 
-1-14 season2 37 
-1-15 season2 38 
-1-16 season2 39 
-1-17 season2 40 
-1-18 season2 41 
-1-19 season2 42 
-1-20 season2 43 
-1-21 season2 44 
-1-22 season2 45 
-1-23 season2 46 
-1-24 season2 47 
-1-25 season2 48 
-1-26 season2 49 
-1-27 season2 50 
-1-28 season2 51 
-1-29 season2 52 
-1-30 season2 53 
-1-31 season2 54 
-1-32 season2 55 
-1-33 season2 56 
-1-34 season2 57 
-1-35 season2 58 
-1-36 season2 59 
-1-37 season2 60 
-1-38 season2 61 
-1-39 season2 62 
-1-40 season2 63 
-1-41 season2 64 
-1-42 season2 65 
-1-43 season2 66 
-1-44 season2 67 
-1-45 season2 68 
-2-0 season3 69 
-2-1 season3 70 
-2-2 season3 71 
-2-3 season3 72 
-2-4 season3 73 
-2-5 season3 74 
-2-6 season3 75 
-2-7 season3 76 
-2-8 season3 77 
-2-9 season3 78 
-2-10 season3 79 
-2-11 season3 80 
-2-12 season3 81 
-2-13 season3 82 
-2-14 season3 83 
-2-15 season3 84 
-2-16 season3 85 
-2-17 season3 86 
-2-18 season3 87 
-2-19 season3 88 
-2-20 season3 89 
-2-21 season3 90 
-2-22 season3 91 
-2-23 season3 92 
-2-24 season3 93 
-2-25 season3 94 
-2-26 season3 95 
-2-27 season3 96 
-2-28 season3 97 
-2-29 season3 98 
-2-30 season3 99 
-2-31 season3 100 
-2-32 season3 101 
-2-33 season3 102
-3-0 season4 103 
-3-1 season4 104 
-3-2 season4 105 
-3-3 season4 106 
-3-4 season4 107 
-3-5 season4 108 
-3-6 season4 109 
-3-7 season4 110 
-3-8 season4 111 
-3-9 season4 112 
-3-10 season4 113 
-3-11 season4 114 
-3-12 season4 115 
-3-13 season4 116
+0-0 season1 1,Renegade Raider
+0-1 season1 2,Aerial Assault Trooper
+0-2 season1 3,Renegade
+0-3 season1 4,Tracker
+0-4 season1 5,Trooper
+0-5 season1 6,Scout
+0-6 season1 7,Ranger
+0-7 season1 8,Assault Trooper
+0-8 season1 9,Pathfinder
+0-9 season1 10,Commando
+0-10 season1 11,Munitions Expert
+0-11 season1 12,Special Forces
+0-12 season1 13,Recon Expert
+0-13 season1 14,First Strike Specialist
+0-14 season1 15,Recon Scout
+0-15 season1 16,Brawler
+0-16 season1 17,Desperado
+0-17 season1 18,Survival Specialist
+0-18 season1 19,Infiltrator
+0-19 season1 20,Recon Specialist
+0-20 season1 21,Ghoul Trooper
+0-21 season1 22,Skull Trooper
+1-0 season2 23,Blue Squire
+1-1 season2 24,Royale Knight
+1-2 season2 25,Sparkle Specialist
+1-3 season2 26,Black Knight
+1-4 season2 27,Nog Ops
+1-5 season2 28,Yuletide Ranger
+1-6 season2 29,Devastator
+1-7 season2 30,Dominator
+1-8 season2 31,Highrise Assault Trooper
+1-9 season2 32,Tactics Officer
+1-10 season2 33,Brite Bomber
+1-11 season2 34,Red Nosed Raider
+1-12 season2 35,Codename E.L.F.
+1-13 season2 36,Circuit Breaker
+1-14 season2 37,Absolute Zero
+1-15 season2 38,Arctic Assassin
+1-16 season2 39,Blue Team Leader
+1-17 season2 40,Hyperion
+1-18 season2 41,Snorkel Ops
+1-19 season2 42,Dazzle
+1-20 season2 43,Ginger Gunner
+1-21 season2 44,Merry Marauder
+1-22 season2 45,Shadow Ops
+1-23 season2 46,Funk Ops
+1-24 season2 47,Alpine AcE
+1-25 season2 48,Alpine Ace CAN
+1-26 season2 49,Alpine Ace CHN
+1-27 season2 50,Alpine Ace FRA
+1-28 season2 51,Alpine Ace GBR
+1-29 season2 52,Alpine Ace GER
+1-30 season2 53,Alpine Ace KOR
+1-31 season2 54,Alpine Ace USA
+1-32 season2 55,Mogul Master
+1-33 season2 56,Mogul Master CAN
+1-34 season2 57,Mogul Master CHN
+1-35 season2 58,Mogul Master FRA
+1-36 season2 59,Mogul Master GBR
+1-37 season2 60,Mogul Master GER
+1-38 season2 61,Mogul Master KOR
+1-39 season2 62,Mogul Master USA
+1-40 season2 63,Red Knight
+1-41 season2 64,Crackshot
+1-42 season2 65,Raptor
+1-43 season2 66,Cuddle Team Leader
+1-44 season2 67,Love Ranger
+1-45 season2 68,Wukong
+2-0 season3 69,Mission Specialist
+2-1 season3 70,Rust Lord
+2-2 season3 71,Moonwalker
+2-3 season3 72,Dark Voyager
+2-4 season3 73,Elite Agent
+2-5 season3 74,The Reaper
+2-6 season3 75,Tower Recon Specialist
+2-7 season3 76,Scarlet Defender
+2-8 season3 77,Crimson Scout
+2-9 season3 78,Jungle Scout
+2-10 season3 79,Sgt. Green Clover
+2-11 season3 80,Whiplash
+2-12 season3 81,Sash Sergeant
+2-13 season3 82,Radiant Striker
+2-14 season3 83,Brilliant Striker
+2-15 season3 84,Midnight Ops
+2-16 season3 85,Cipher
+2-17 season3 86,Sub Commander
+2-18 season3 87,Burnout
+2-19 season3 88,Highland Warrior
+2-20 season3 89,Rogue Agent
+2-21 season3 90,Rabbit Raider
+2-22 season3 91,Bunny Brawler
+2-23 season3 92,Tomatohead
+2-24 season3 93,Steelsight
+2-25 season3 94,Brite Gunner
+2-26 season3 95,Havoc
+2-27 season3 96,Rex
+2-28 season3 97,Battle Hound
+2-29 season3 98,Power Chord
+2-30 season3 99,Raven
+2-31 season3 100,Dark Vanguard
+2-32 season3 101,Leviathan
+2-33 season3 102,Tricera Ops
+3-0 season4 103,Carbide
+3-1 season4 104,Battlehawk
+3-2 season4 105,Teknique
+3-3 season4 106,Zoey
+3-4 season4 107,Valor
+3-5 season4 108,Squad Leader
+3-6 season4 109,Omega
+3-7 season4 110,Abstrakt
+3-8 season4 111,Chromium
+3-9 season4 112,Diecast
+3-10 season4 113,Liteshow
+3-11 season4 114,Nitelite
+3-12 season4 115,Royale Bomber
+3-13 season4 116,Trailblazer
+3-14 season4 117,Venturion
+3-15 season4 118,Moisty Merman
+3-16 season4 119,Toxic Trooper
+3-17 season4 120,Bandolier
