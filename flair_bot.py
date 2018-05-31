@@ -89,21 +89,16 @@ class FlairBot:
 
     def process_pm(self, msg, author, target_sub):
         """Process unread PM."""
-
-        content = msg.body.split(',', 1)
-        class_name = content[0].rstrip()
+        flair_class = re.search(r"(\d+-\d+ season\d+ \d+)", msg.body).group()
         subreddit = self.reddit.subreddit(target_sub)
 
-        if class_name in self.flairs:
-            if len(content) > 1:
-                flair_text = content[1].lstrip()[:64]
-            else:
-                flair_text = self.flairs[class_name] or ''
+        if flair_class is not None:
+            if flair_class in self.flairs:
+                flair_text = self.flairs[flair_class] or ''
 
-            subreddit.flair.set(author, flair_text, class_name)
-            if self.logging:
-                self.log(author, flair_text, class_name)
-
+                subreddit.flair.set(author, flair_text, flair_class)
+                if self.logging:
+                    self.log(author, flair_text, flair_class)
         msg.mark_read()
 
     @staticmethod
