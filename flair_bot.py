@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """Flair bot."""
 import sys
 import os
@@ -56,7 +58,9 @@ class FlairBot:
                                       username=username,
                                       password=password,
                                       user_agent=user_agent)
-
+            
+        print(self.reddit.user.me())
+        
         self.get_flairs()
 
     def get_flairs(self):
